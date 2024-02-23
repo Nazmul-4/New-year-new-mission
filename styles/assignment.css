@@ -38,3 +38,77 @@
     font-weight: 900;
     line-height: 95px;
   }
+  /* body styles */
+.H1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+.H4{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.CATEGORIES{
+    color: #070211;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 40px;
+}
+.image{
+    
+    border-radius: 16px;
+    background: linear-gradient
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    padding: 40px 330px;
+}
+.invitation{
+    text-align: center;
+
+    
+} 
+.pics{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: linear-gradient;
+    padding: 0px 75px;
+}
+.welcome{
+    color: #FFF;
+    position: absolute;
+    top: 8px;
+    left: 30px;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+    padding-left: 266px;
+
+}
+.dolor{
+    color: rgba(255, 255, 255, 0.80);
+    width: 697px;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
