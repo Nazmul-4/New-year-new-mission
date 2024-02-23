@@ -133,7 +133,24 @@
     line-height: normal;
     text-transform: uppercase;
 }
-
-
+.place{
+    width: 1320px;
+    height: 400px;
+    flex-shrink: 0;
+    text-align: center;
+    background-color: rgb(255, 181, 171)
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    background-color: rgb(255,0,0,0.1);
+    padding: 0px 40px;
+}
+.text{
+    color: red;
+    
+}
 
 
