@@ -400,3 +400,32 @@
 .last{
     display: flex;
 }
+.last{
+    background-color: #070211;
+}
+.loc{
+    color: #FFF;
+    padding-left: 60px;
+}
+.logo{
+    padding: 120px 409px 108px 140px;
+}
+.un{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.licence{
+    color: white;
+    padding: 260px 120px 50px 60px;
+}
